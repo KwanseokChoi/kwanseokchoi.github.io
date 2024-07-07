@@ -132,3 +132,10 @@ section {
 .course-semester {
   margin-left: auto;
 }
+
+/* Responsive */
+@media (max-width: 568px) {
+  .header-image {
+    display: none;
+  }
+}
